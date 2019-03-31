@@ -155,3 +155,13 @@
 	background-color: #00c000;
 	color: #e0ff80
 }
+
+#rebirth {
+	background-color: #ff7fed;
+	color: #ff00dc
+}
+
+#rebirth:hover {
+	background-color: #ff7fb6;
+	color: #ff006e
+}
