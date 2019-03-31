@@ -145,3 +145,13 @@
 	background-color: #7fff7f;
 	color: #00c000
 }
+
+#photosynthesize {
+	background-color: #008000;
+	color: #00ff00
+}
+
+#photosynthesize:hover {
+	background-color: #00c000;
+	color: #7fff7f
+}
