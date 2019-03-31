@@ -148,10 +148,10 @@
 
 #photosynthesize {
 	background-color: #008000;
-	color: #00ff00
+	color: #e0ff00
 }
 
 #photosynthesize:hover {
 	background-color: #00c000;
-	color: #7fff7f
+	color: #e0ff80
 }
