@@ -185,3 +185,13 @@
 	background-color: #000000;
 	color: #990000
 }
+
+#nanadd {
+	background-color: #bfbfbf;
+	color: #990000
+}
+
+#nanadd:hover {
+	background-color: #dfdfdf;
+	color: #cc0000
+}
