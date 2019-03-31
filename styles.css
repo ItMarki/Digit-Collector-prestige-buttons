@@ -135,3 +135,13 @@
 	background-color: #7fff7f;
 	color: #ffffff
 }
+
+#evolve {
+	background-color: #00ff00;
+	color: #008000
+}
+
+#evolve:hover {
+	background-color: #7fff7f;
+	color: #008000
+}
