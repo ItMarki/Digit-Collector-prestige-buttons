@@ -175,3 +175,13 @@
 	background-color: #cccccc;
 	color: #e5e5e5
 }
+
+#void {
+	background-color: #000000;
+	color: #330000
+}
+
+#void:hover {
+	background-color: #000000;
+	color: #660000
+}
