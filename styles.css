@@ -145,3 +145,63 @@
 	background-color: #7fff7f;
 	color: #00c000
 }
+
+#photosynthesize {
+	background-color: #008000;
+	color: #e0ff00
+}
+
+#photosynthesize:hover {
+	background-color: #00c000;
+	color: #e0ff80
+}
+
+#rebirth {
+	background-color: #ff7fed;
+	color: #ff00dc
+}
+
+#rebirth:hover {
+	background-color: #ff7fb6;
+	color: #ff006e
+}
+
+#nullify {
+	background-color: #b2b2b2;
+	color: #cccccc
+}
+
+#nullify:hover {
+	background-color: #cccccc;
+	color: #e5e5e5
+}
+
+#void {
+	background-color: #000000;
+	color: #660000
+}
+
+#void:hover {
+	background-color: #000000;
+	color: #990000
+}
+
+#nanadd {
+	background-color: #7f7f7f;
+	color: #990000
+}
+
+#nanadd:hover {
+	background-color: #9f9f9f;
+	color: #cc0000
+}
+
+#break {
+	background-color: #660000;
+	color: #990000
+}
+
+#break:hover {
+	background-color: #990000;
+	color: #cc0000
+}
