@@ -195,3 +195,13 @@
 	background-color: #9f9f9f;
 	color: #cc0000
 }
+
+#break {
+	background-color: #660000;
+	color: #990000
+}
+
+#break:hover {
+	background-color: #990000;
+	color: #cc0000
+}
